@@ -62,7 +62,6 @@ The Power BI dashboard includes:
 📁 Data Science Salaries Dashboard
 ├── ds_salaries.xlsx # Dataset
 ├── dashboard.pbix # Power BI dashboard file
-├── screenshot.png # Dashboard screenshot
 └── README.md # Project documentation
 
 
